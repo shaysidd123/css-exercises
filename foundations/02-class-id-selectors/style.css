@@ -1,0 +1,20 @@
+.Numbers{
+  background-color: lightpink;
+  font-family:'Verdana','DejaVu Sans','sans-serif';
+}
+
+#Two{
+  color: blue;
+  font-size: 36px;
+
+}
+
+.Numbers.special {
+  font-size: 24px;
+}
+
+#Four{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
